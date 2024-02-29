@@ -1,0 +1,129 @@
+.images-2-icon,
+.nightfall-1-icon {
+  position: absolute;
+  top: -11px;
+  left: 0;
+  width: 1450px;
+  height: 921px;
+  object-fit: cover;
+}
+.nightfall-1-icon {
+  top: 230px;
+  left: 64px;
+  width: 237px;
+  height: 397.8px;
+}
+.in-1941-astounding {
+  margin: 0;
+}
+.author3,
+.in-1941-astounding-container {
+  position: absolute;
+  top: 310px;
+  left: 433px;
+  font-weight: 300;
+  display: inline-block;
+  width: 1017px;
+  height: 175px;
+}
+.author3 {
+  top: 661px;
+  left: 357px;
+  font-weight: 800;
+  width: 94px;
+  height: 24px;
+}
+.desktop-2-child {
+  position: absolute;
+  top: 695px;
+  left: 343px;
+  border-radius: 20px;
+  background-color: #35425b;
+  width: 406px;
+  height: 94px;
+}
+.isaac-asimov {
+  position: absolute;
+  top: 723px;
+  left: 469px;
+  text-decoration: underline;
+  font-style: italic;
+  font-weight: 300;
+  color: #fff;
+}
+.desktop-2-inner,
+.desktop-2-item {
+  position: absolute;
+  top: 811px;
+  left: 1316px;
+  border-radius: 20px;
+  background-color: #d9d9d9;
+  width: 112px;
+  height: 77px;
+}
+.desktop-2-inner {
+  left: 52px;
+}
+.akar-iconsarrow-left2,
+.akar-iconsarrow-right3 {
+  position: absolute;
+  top: 899px;
+  left: 79px;
+  width: 34px;
+  height: 100px;
+  overflow: hidden;
+}
+.akar-iconsarrow-right3 {
+  top: 799px;
+  left: 1347px;
+  width: 50px;
+}
+.desktop-2-child1,
+.desktop-2-child2,
+.desktop-2-child3 {
+  position: absolute;
+  top: 11px;
+  left: 725px;
+  background-color: #d9d9d9;
+  width: 180px;
+  height: 40px;
+}
+.desktop-2-child2,
+.desktop-2-child3 {
+  left: 944px;
+}
+.desktop-2-child3 {
+  left: 1163px;
+}
+.about-us3,
+.howe2,
+.services2 {
+  position: absolute;
+  font-weight: 300;
+}
+.howe2 {
+  top: 43px;
+  left: 785px;
+  display: inline-block;
+  width: 89px;
+  height: 24px;
+}
+.about-us3,
+.services2 {
+  top: 19px;
+  left: 983px;
+}
+.services2 {
+  left: 1216px;
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: #c4b0b0;
+  height: 910px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Inter;
+}

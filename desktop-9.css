@@ -1,0 +1,137 @@
+.images-8-icon,
+.oppenheimer-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1489px;
+  height: 909px;
+  object-fit: cover;
+}
+.oppenheimer-1-icon {
+  top: 325px;
+  left: 73px;
+  width: 237px;
+  height: 335px;
+}
+.blank-line {
+  margin: 0;
+}
+.text {
+  position: absolute;
+  top: 196px;
+  left: 431px;
+  font-size: 40px;
+}
+.oppenheimer-is-most-container {
+  position: absolute;
+  top: 376px;
+  left: 435px;
+  font-weight: 300;
+  display: inline-block;
+  width: 1832px;
+}
+.desktop-9-child {
+  position: absolute;
+  top: 689px;
+  left: 327px;
+  border-radius: 20px;
+  background-color: #e48e4f;
+  width: 406px;
+  height: 99px;
+}
+.author {
+  position: absolute;
+  top: 660px;
+  left: 431px;
+  font-weight: 800;
+}
+.j-robert-oppenheimer-container {
+  position: absolute;
+  top: 716px;
+  left: 397px;
+  font-weight: 300;
+}
+.desktop-9-inner,
+.desktop-9-item {
+  position: absolute;
+  top: 804px;
+  left: 1327px;
+  border-radius: 20px;
+  background-color: #d9d9d9;
+  width: 96px;
+  height: 77px;
+}
+.desktop-9-inner {
+  left: 42px;
+  width: 112px;
+}
+.akar-iconsarrow-left,
+.akar-iconsarrow-right1 {
+  position: absolute;
+  top: 893px;
+  left: 73px;
+  width: 50px;
+  height: 100px;
+  overflow: hidden;
+}
+.akar-iconsarrow-right1 {
+  top: 793px;
+  left: 1359px;
+}
+.desktop-9-child1 {
+  position: absolute;
+  top: 15px;
+  left: 751px;
+  background-color: #d9d9d9;
+  width: 180px;
+  height: 40px;
+}
+.howe1 {
+  position: absolute;
+  top: 47px;
+  left: 796px;
+  font-weight: 300;
+  display: inline-block;
+  width: 97px;
+  height: 24px;
+}
+.desktop-9-child2 {
+  position: absolute;
+  top: 15px;
+  left: 965px;
+  background-color: #d9d9d9;
+  width: 180px;
+  height: 40px;
+}
+.about-us1 {
+  position: absolute;
+  top: 23px;
+  left: 997px;
+  font-weight: 300;
+}
+.desktop-9-child3 {
+  position: absolute;
+  top: 15px;
+  left: 1179px;
+  background-color: #d9d9d9;
+  width: 180px;
+  height: 40px;
+}
+.services1 {
+  position: absolute;
+  top: 23px;
+  left: 1232px;
+  font-weight: 300;
+}
+.desktop-9 {
+  width: 100%;
+  position: relative;
+  border-radius: 20px;
+  background-color: #c4b0b0;
+  height: 909px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Inter;
+}

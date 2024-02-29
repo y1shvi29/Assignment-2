@@ -1,0 +1,124 @@
+.images-5-icon {
+  position: absolute;
+  top: 0;
+  left: -33px;
+  width: 1499px;
+  height: 1089px;
+  object-fit: cover;
+}
+.a-sound-of {
+  margin: 0;
+}
+.a-sound-of-container {
+  position: absolute;
+  top: 413px;
+  left: 440px;
+  font-weight: 300;
+}
+.a-sound-of-thunder-1 {
+  position: absolute;
+  top: 377px;
+  left: 44px;
+  width: 223.6px;
+  height: 335px;
+  object-fit: cover;
+}
+.author8 {
+  position: absolute;
+  top: 615px;
+  left: 440px;
+  font-weight: 800;
+}
+.desktop-5-child {
+  position: absolute;
+  top: 644px;
+  left: 390px;
+  border-radius: 20px;
+  background-color: #4e4949;
+  width: 406px;
+  height: 94px;
+}
+.ray-bradbury {
+  position: absolute;
+  top: 679px;
+  left: 487px;
+  line-height: 120%;
+  font-weight: 300;
+  color: #fff;
+}
+.desktop-5-inner,
+.desktop-5-item {
+  position: absolute;
+  top: 915px;
+  left: 54px;
+  border-radius: 20px;
+  background-color: #d9d9d9;
+  width: 112px;
+  height: 77px;
+}
+.desktop-5-inner {
+  left: 1307px;
+}
+.akar-iconsarrow-left5,
+.akar-iconsarrow-right6 {
+  position: absolute;
+  top: 1003px;
+  left: 85px;
+  width: 50px;
+  height: 100px;
+  overflow: hidden;
+}
+.akar-iconsarrow-right6 {
+  top: 903px;
+  left: 1338px;
+}
+.desktop-5-child1,
+.desktop-5-child2,
+.desktop-5-child3 {
+  position: absolute;
+  top: 24px;
+  left: 797px;
+  background-color: #d9d9d9;
+  width: 180px;
+  height: 40px;
+}
+.desktop-5-child2,
+.desktop-5-child3 {
+  left: 1008px;
+}
+.desktop-5-child3 {
+  left: 1219px;
+}
+.about-us6,
+.howe5,
+.services7 {
+  position: absolute;
+  font-weight: 300;
+}
+.howe5 {
+  top: 54px;
+  left: 850px;
+  display: inline-block;
+  width: 89px;
+  height: 24px;
+}
+.about-us6,
+.services7 {
+  top: 30px;
+  left: 1047px;
+}
+.services7 {
+  top: 32px;
+  left: 1272px;
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: #c4b0b0;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Inter;
+}
